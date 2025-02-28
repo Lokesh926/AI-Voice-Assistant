@@ -1,0 +1,9 @@
+#Virutal Environment
+.venv 
+
+#API KEYS 
+API_KEYS.txt
+
+
+#Environment Variable
+.env 
